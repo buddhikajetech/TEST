@@ -1,4 +1,8 @@
+using system.net
+
 public sub mmm
+
+private rrr;
 
 
 end sub
